@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>/Users/BradBoswell/Projects/FlightSim/FlightSim/Content/Segoe_UI_15_Bold.spritefont</SourceFile>
+  <SourceTime>2016-03-30T01:36:23-05:00</SourceTime>
+  <DestFile>/Users/BradBoswell/Projects/FlightSim/FlightSim/Content/bin/DesktopGL/Segoe_UI_15_Bold.xnb</DestFile>
+  <DestTime>2017-04-26T13:39:55-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2016-03-30T01:36:22-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2016-03-30T01:36:22-05:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

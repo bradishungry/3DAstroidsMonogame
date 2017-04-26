@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/BradBoswell/Projects/FlightSim/FlightSim/Content/riemerstexture.bmp</File>
+    <File>/Users/BradBoswell/Projects/FlightSim/FlightSim/Content/spaceshipnew2017.fbx</File>
+    <File>/Users/BradBoswell/Projects/FlightSim/FlightSim/Content/shiptex.jpg</File>
+    <File>/Users/BradBoswell/Projects/FlightSim/FlightSim/Content/skybox.fbx</File>
+    <File>/Users/BradBoswell/Projects/FlightSim/FlightSim/Content/space.png</File>
+    <File>/Users/BradBoswell/Projects/FlightSim/FlightSim/Content/meteor.jpg</File>
+    <File>/Users/BradBoswell/Projects/FlightSim/FlightSim/Content/meteors/blmeteor.fbx</File>
+    <File>/Users/BradBoswell/Projects/FlightSim/FlightSim/Content/meteors/bmeteor.fbx</File>
+    <File>/Users/BradBoswell/Projects/FlightSim/FlightSim/Content/meteors/scmeteor.fbx</File>
+    <File>/Users/BradBoswell/Projects/FlightSim/FlightSim/Content/meteors/meteor.fbx</File>
+    <File>/Users/BradBoswell/Projects/FlightSim/FlightSim/Content/meteors/smeteor.fbx</File>
+    <File>/Users/BradBoswell/Projects/FlightSim/FlightSim/Content/meteors/meteor2.fbx</File>
+    <File>/Users/BradBoswell/Projects/FlightSim/FlightSim/Content/Segoe_UI_15_Bold.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>
